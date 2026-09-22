@@ -116,7 +116,7 @@ Visual Studio Code: Entorno de desarrollo principal y configuración del compila
 
 🔗 **Repositorio del proyecto:**
 
-[👉 Ver proyecto en GitHub](https://github.com/yamileH06/redes-packet-tracer)
+[👉 Ver proyecto en GitHub](https://github.com/yamileH06/presentacion_personal1)
 
 ---
 
