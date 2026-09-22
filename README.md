@@ -67,6 +67,7 @@ Me interesa especialmente el **desarrollo web**, las **bases de datos** y la **a
 📌 **Descripción:**
 
 Sistema orientado al diseño de una **base de datos relacional** para administrar la información de vehículos, clientes, espacios de parqueadero y tarifas.
+<img width="797" height="475" alt="WhatsApp Image 2026-09-22 at 2 49 34 PM" src="https://github.com/user-attachments/assets/04575d4d-3978-432a-b750-58a581f1dcc3" />
 
 🛠️ **Tecnologías utilizadas:**
 
@@ -74,9 +75,7 @@ Sistema orientado al diseño de una **base de datos relacional** para administra
 * 🐬 MySQL
 * 🖥️ HeidiSQL
 
-📸 **Captura del proyecto:**
 
-![Captura Parqueadero](parqueadero.png)
 
 ---
 
@@ -103,6 +102,7 @@ Gestión de Platos y Combos: Módulo para administrar el menú interactivo del r
 📌 **Descripción:**
 Aplicación web interactiva diseñada para la gestión académica y el seguimiento de calificaciones de estudiantes. Permite administrar registros estudiantiles mediante una interfaz dinámica que facilita la captura de datos a través de formularios con validaciones personalizadas, la visualización de información en tablas interactivas y la ejecución de operaciones de mantenimiento de datos en tiempo real.
 
+<img width="891" height="411" alt="WhatsApp Image 2026-09-22 at 2 55 21 PM" src="https://github.com/user-attachments/assets/ab7e7d3a-bc61-4ad2-8d0b-84050d18f1ad" />
 
 
 🛠️ **Tecnologías utilizadas:**
@@ -111,7 +111,7 @@ Aplicación web interactiva diseñada para la gestión académica y el seguimien
 HTML5: Estructuración semántica de la interfaz gráfica, formularios de captura y tablas de contenido.
 CSS3: Estilizado, diseño responsivo y maquetación de la interfaz de usuario.
 Visual Studio Code: Entorno de desarrollo principal y configuración del compilador (tsconfig.json).
-📸 **Captura del proyecto:**
+
 
 
 🔗 **Repositorio del proyecto:**
