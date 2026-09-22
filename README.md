@@ -85,7 +85,7 @@ Sistema orientado al diseño de una **base de datos relacional** para administra
 📌 **Descripción:**
 
 Gestión de Platos y Combos: Módulo para administrar el menú interactivo del restaurante. Permite registrar y visualizar platos con detalles de tamaño, tiempo de preparación y precio, asociar combos de acompañamientos y controlar el estado de disponibilidad (Disponible / Agotado) con acciones rápidas de edición y eliminación.
-
+<img width="1550" height="743" alt="Captura de pantalla 2026-09-22 134330" src="https://github.com/user-attachments/assets/af93f352-1ef7-4fcd-bd20-074b6e8fff5e" />
 🛠️ **Tecnologías utilizadas:**
 
 * 🔷 TypeScript
@@ -95,7 +95,6 @@ Gestión de Platos y Combos: Módulo para administrar el menú interactivo del r
 
 📸 **Captura del proyecto:**
 
-![Captura App Web](tabla_estudiantes.png)
 
 ---
 
@@ -104,7 +103,7 @@ Gestión de Platos y Combos: Módulo para administrar el menú interactivo del r
 📌 **Descripción:**
 Aplicación web interactiva diseñada para la gestión académica y el seguimiento de calificaciones de estudiantes. Permite administrar registros estudiantiles mediante una interfaz dinámica que facilita la captura de datos a través de formularios con validaciones personalizadas, la visualización de información en tablas interactivas y la ejecución de operaciones de mantenimiento de datos en tiempo real.
 
-<img width="1550" height="743" alt="Captura de pantalla 2026-09-22 134330" src="https://github.com/user-attachments/assets/af93f352-1ef7-4fcd-bd20-074b6e8fff5e" />
+
 
 🛠️ **Tecnologías utilizadas:**
 
