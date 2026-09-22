@@ -114,7 +114,6 @@ CSS3: Estilizado, diseño responsivo y maquetación de la interfaz de usuario.
 Visual Studio Code: Entorno de desarrollo principal y configuración del compilador (tsconfig.json).
 📸 **Captura del proyecto:**
 
-![Captura Red](red_packetracer.png)
 
 🔗 **Repositorio del proyecto:**
 
