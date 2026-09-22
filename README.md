@@ -11,7 +11,9 @@
 Me interesa especialmente el **desarrollo web**, las **bases de datos** y la **arquitectura de software**. 🚀
 
 📸 **Foto de perfil:**
-<img width="720" height="1280" alt="WhatsApp Image 2024-10-02 at 5 53 34 PM (1)" src="https://github.com/user-attachments/assets/f8197505-eb8b-40b2-9cf6-7de11b8e881e" />
+
+ <img width="899" height="1599" alt="WhatsApp Image 2026-09-22 at 2 29 31 PM" src="https://github.com/user-attachments/assets/c93b2621-6de7-44b0-9a87-9cfb837183ad" />
+
 
 ![Foto de perfil](tu_foto.jpg)
 
