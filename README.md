@@ -1,55 +1,149 @@
-# Inicio
+# 👩‍💻 Diana Yamile Hualpa Chaguezac
 
-## Presentación
-* **Nombre completo:** Diana Yamile Hualpa Chaguezac
-* **Descripción personal:** Estudiante de Ingeniería de Sistemas interesada en el desarrollo web, diseño de bases de datos y arquitectura de software.
-* **Área de interés:** Desarrollo Web (Frontend/Backend), Bases de Datos y Redes.
-* **Fotografía:** 
+### 🎓 Estudiante de Ingeniería de Sistemas | 💻 Desarrollo Web | 🗄️ Bases de Datos | 🌐 Redes
+
+---
+
+## 🏠 Inicio
+
+¡Hola! 👋 Soy **Diana Yamile Hualpa Chaguezac**, estudiante de **Ingeniería de Sistemas** interesada en la tecnología, el desarrollo de software y la creación de soluciones digitales.
+
+Me interesa especialmente el **desarrollo web**, las **bases de datos** y la **arquitectura de software**. 🚀
+
+📸 **Foto de perfil:**
+
 ![Foto de perfil](tu_foto.jpg)
 
 ---
 
-## Sobre mí
+## 🙋‍♀️ Sobre mí
 
-### Formación académica
-* **Ingeniería de Sistemas** – Uniremington (En curso)
+### 🎓 Formación académica
 
-### Habilidades
-* Desarrollo de interfaces web interactivas y formularios dinámicos con TypeScript y HTML/CSS.
-* Construcción, modificación y gestión de bases de datos relacionales en MySQL y HeidiSQL.
-* Simulación de circuitos digitales y microcontroladores.
+* 🏫 **Ingeniería de Sistemas** – Uniremington *(En curso)*
 
-### Intereses profesionales
-* Desarrollo Frontend y Backend.
-* Arquitectura y patrones de diseño de software (MVC).
-* Administración de bases de datos y redes de comunicación.
+### 💡 Habilidades
 
-### Tecnologías que conoce o está aprendiendo
-* HTML
-* JavaScript / TypeScript
-* MySQL / HeidiSQL
-* Git / GitHub
-* Visual Studio Code
-* python
+* 🌐 Desarrollo de interfaces web interactivas.
+* 📝 Creación y validación de formularios dinámicos.
+* 💻 Desarrollo con **TypeScript, JavaScript y HTML/CSS**.
+* 🗄️ Diseño y gestión de bases de datos relacionales.
+* 🐬 Manejo de **MySQL y HeidiSQL**.
+* 🔌 Simulación de circuitos digitales y microcontroladores.
+* 🌐 Diseño y configuración de redes.
+
+### 🎯 Intereses profesionales
+
+* 🖥️ Desarrollo **Frontend y Backend**.
+* 🏗️ Arquitectura y patrones de diseño de software.
+* 🧩 Patrón **MVC (Modelo-Vista-Controlador)**.
+* 🗃️ Administración de bases de datos.
+* 🌐 Redes y comunicación.
+* ☁️ Aprendizaje de nuevas tecnologías.
 
 ---
 
-## Proyectos
+## 🛠️ Tecnologías y herramientas
 
-### 1. Sistema de Gestión de Parqueadero
-* **Descripción:** Diseño de base de datos relacional y scripts SQL para la administración de vehículos, clientes, espacios y tarifas.
-* **Tecnologías utilizadas:** SQL, MySQL, HeidiSQL.
-* **Captura:** ![Captura Parqueadero](parqueadero.png)
+| Tecnología             | Nivel / Uso                |
+| ---------------------- | -------------------------- |
+| 🌐 HTML                | Desarrollo web             |
+| 🎨 CSS                 | Diseño de interfaces       |
+| 🟨 JavaScript          | Programación web           |
+| 🔷 TypeScript          | Desarrollo de aplicaciones |
+| 🐍 Python              | En aprendizaje             |
+| 🐙 GitHub              | Repositorios y proyectos   |
+| 💻 Visual Studio Code  | Entorno de desarrollo      |
 
-### 2. Formulario Web Interactivo y Gestión de Datos
-* **Descripción:** Aplicación web desarrollada con TypeScript y HTML para captura de datos, validación de formularios y renderizado de tablas en tiempo real.
-* **Tecnologías utilizadas:** TypeScript, HTML5, CSS3, Visual Studio Code.
-* **Captura:** ![Captura App Web](tabla_estudiantes.png)
+
+---
+
+# 🚀 Proyectos
+
+## 🅿️ 1. Sistema de Gestión de Parqueadero
+
+📌 **Descripción:**
+
+Sistema orientado al diseño de una **base de datos relacional** para administrar la información de vehículos, clientes, espacios de parqueadero y tarifas.
+
+🛠️ **Tecnologías utilizadas:**
+
+* 🗄️ SQL
+* 🐬 MySQL
+* 🖥️ HeidiSQL
+
+📸 **Captura del proyecto:**
+
+![Captura Parqueadero](parqueadero.png)
+
+---
+
+## 📝 2.gestion de un restaurante de comidas rapidas 
+
+📌 **Descripción:**
+
+Gestión de Platos y Combos: Módulo para administrar el menú interactivo del restaurante. Permite registrar y visualizar platos con detalles de tamaño, tiempo de preparación y precio, asociar combos de acompañamientos y controlar el estado de disponibilidad (Disponible / Agotado) con acciones rápidas de edición y eliminación.
+
+🛠️ **Tecnologías utilizadas:**
+
+* 🔷 TypeScript
+* 🌐 HTML5
+* 🎨 CSS3
+* 💻 Visual Studio Code
+
+📸 **Captura del proyecto:**
+
+![Captura App Web](tabla_estudiantes.png)
+
+---
+
+## 🌐 3. sistema de registro y control de estudiantes 
+
+📌 **Descripción:**
+Aplicación web interactiva diseñada para la gestión académica y el seguimiento de calificaciones de estudiantes. Permite administrar registros estudiantiles mediante una interfaz dinámica que facilita la captura de datos a través de formularios con validaciones personalizadas, la visualización de información en tablas interactivas y la ejecución de operaciones de mantenimiento de datos en tiempo real.
 
 
-### 3. Configuración de Red Multi-Departamento
-* **Descripción:** Diseño de topología de red corporativa con enrutamiento, pools DHCP multi-área y resolución de nombres DNS.
-* **Tecnologías utilizadas:** Cisco Packet Tracer.
-* **Captura:** ![Captura Red](red_packetracer.png)
-* **Enlace al proyecto:** [Ver Repositorio](https://github.com/yamileH06/redes-packet-tracer)
-*
+🛠️ **Tecnologías utilizadas:**
+
+🔷TypeScript: Lógica de negocio, tipado estático, manejo de interfaces de datos y manipulación dinámica del DOM.
+HTML5: Estructuración semántica de la interfaz gráfica, formularios de captura y tablas de contenido.
+CSS3: Estilizado, diseño responsivo y maquetación de la interfaz de usuario.
+Visual Studio Code: Entorno de desarrollo principal y configuración del compilador (tsconfig.json).
+📸 **Captura del proyecto:**
+
+![Captura Red](red_packetracer.png)
+
+🔗 **Repositorio del proyecto:**
+
+[👉 Ver proyecto en GitHub](https://github.com/yamileH06/redes-packet-tracer)
+
+---
+
+## 📚 Actualmente aprendiendo
+
+🌱 Actualmente estoy fortaleciendo mis conocimientos en:
+
+* 🔷 TypeScript y JavaScript.
+* 🗄️ Bases de datos.
+* 🏗️ Arquitectura de software.
+* 🧩 Patrones de diseño.
+* 🌐 Redes.
+* 🐍 Python.
+* 🐙 Git y GitHub.
+
+---
+
+## 📊 Objetivo profesional
+
+🎯 Mi objetivo es continuar desarrollando mis habilidades como **Ingeniera de Sistemas**, creando aplicaciones y soluciones tecnológicas que combinen **desarrollo de software, bases de datos y arquitectura de sistemas**.
+
+---
+
+### 🤝 ¡Gracias por visitar mi perfil!
+
+⭐ Explora mis proyectos y conoce un poco más sobre mi proceso de aprendizaje.
+
+💻 **Diana Yamile Hualpa Chaguezac**
+🎓 Ingeniería de Sistemas
+🚀 *Aprendiendo, desarrollando y construyendo soluciones.*
+
