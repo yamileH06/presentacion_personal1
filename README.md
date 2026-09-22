@@ -10,11 +10,9 @@
 
 Me interesa especialmente el **desarrollo web**, las **bases de datos** y la **arquitectura de software**. 🚀
 
-📸 **Foto de perfil:**
-
- <img width="899" height="1599" alt="WhatsApp Image 2026-09-22 at 2 29 31 PM" src="https://github.com/user-attachments/assets/c93b2621-6de7-44b0-9a87-9cfb837183ad" />
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c93b2621-6de7-44b0-9a87-9cfb837183ad" width="250" alt="Foto de perfil">
+</p>
 
 ---
 
@@ -47,16 +45,15 @@ Me interesa especialmente el **desarrollo web**, las **bases de datos** y la **a
 
 ## 🛠️ Tecnologías y herramientas
 
-| Tecnología             | Nivel / Uso                |
-| ---------------------- | -------------------------- |
-| 🌐 HTML                | Desarrollo web             |
-| 🎨 CSS                 | Diseño de interfaces       |
-| 🟨 JavaScript          | Programación web           |
-| 🔷 TypeScript          | Desarrollo de aplicaciones |
-| 🐍 Python              | En aprendizaje             |
-| 🐙 GitHub              | Repositorios y proyectos   |
-| 💻 Visual Studio Code  | Entorno de desarrollo      |
-
+| Tecnología            | Nivel / Uso                |
+| --------------------- | -------------------------- |
+| 🌐 HTML               | Desarrollo web             |
+| 🎨 CSS                | Diseño de interfaces       |
+| 🟨 JavaScript         | Programación web           |
+| 🔷 TypeScript         | Desarrollo de aplicaciones |
+| 🐍 Python             | En aprendizaje             |
+| 🐙 GitHub             | Repositorios y proyectos   |
+| 💻 Visual Studio Code | Entorno de desarrollo      |
 
 ---
 
@@ -67,7 +64,10 @@ Me interesa especialmente el **desarrollo web**, las **bases de datos** y la **a
 📌 **Descripción:**
 
 Sistema orientado al diseño de una **base de datos relacional** para administrar la información de vehículos, clientes, espacios de parqueadero y tarifas.
-<img width="797" height="475" alt="WhatsApp Image 2026-09-22 at 2 49 34 PM" src="https://github.com/user-attachments/assets/04575d4d-3978-432a-b750-58a581f1dcc3" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/04575d4d-3978-432a-b750-58a581f1dcc3" width="650" alt="Sistema de Gestión de Parqueadero">
+</p>
 
 🛠️ **Tecnologías utilizadas:**
 
@@ -75,16 +75,18 @@ Sistema orientado al diseño de una **base de datos relacional** para administra
 * 🐬 MySQL
 * 🖥️ HeidiSQL
 
-
-
 ---
 
-## 📝 2.gestion de un restaurante de comidas rapidas 
+## 🍔 2. Gestión de un Restaurante de Comidas Rápidas
 
 📌 **Descripción:**
 
-Gestión de Platos y Combos: Módulo para administrar el menú interactivo del restaurante. Permite registrar y visualizar platos con detalles de tamaño, tiempo de preparación y precio, asociar combos de acompañamientos y controlar el estado de disponibilidad (Disponible / Agotado) con acciones rápidas de edición y eliminación.
-<img width="1550" height="743" alt="Captura de pantalla 2026-09-22 134330" src="https://github.com/user-attachments/assets/af93f352-1ef7-4fcd-bd20-074b6e8fff5e" />
+Sistema para la **gestión de platos y combos** de un restaurante. Permite registrar y visualizar platos con detalles de tamaño, tiempo de preparación y precio, asociar combos de acompañamientos y controlar el estado de disponibilidad **(Disponible / Agotado)** mediante acciones de edición y eliminación.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/af93f352-1ef7-4fcd-bd20-074b6e8fff5e" width="750" alt="Gestión de restaurante">
+</p>
+
 🛠️ **Tecnologías utilizadas:**
 
 * 🔷 TypeScript
@@ -92,30 +94,28 @@ Gestión de Platos y Combos: Módulo para administrar el menú interactivo del r
 * 🎨 CSS3
 * 💻 Visual Studio Code
 
-📸 **Captura del proyecto:**
-
-
 ---
 
-## 🌐 3. sistema de registro y control de estudiantes 
+## 🎓 3. Sistema de Registro y Control de Estudiantes
 
 📌 **Descripción:**
-Aplicación web interactiva diseñada para la gestión académica y el seguimiento de calificaciones de estudiantes. Permite administrar registros estudiantiles mediante una interfaz dinámica que facilita la captura de datos a través de formularios con validaciones personalizadas, la visualización de información en tablas interactivas y la ejecución de operaciones de mantenimiento de datos en tiempo real.
 
-<img width="891" height="411" alt="WhatsApp Image 2026-09-22 at 2 55 21 PM" src="https://github.com/user-attachments/assets/ab7e7d3a-bc61-4ad2-8d0b-84050d18f1ad" />
+Aplicación web interactiva diseñada para la **gestión académica y el seguimiento de calificaciones de estudiantes**.
 
+Permite administrar registros mediante una interfaz dinámica, facilitando la captura de datos a través de formularios con validaciones personalizadas, la visualización de información en tablas interactivas y la ejecución de operaciones de mantenimiento de datos en tiempo real.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ab7e7d3a-bc61-4ad2-8d0b-84050d18f1ad" width="700" alt="Sistema de registro y control de estudiantes">
+</p>
 
 🛠️ **Tecnologías utilizadas:**
 
-🔷TypeScript: Lógica de negocio, tipado estático, manejo de interfaces de datos .
-HTML5: Estructuración semántica de la interfaz gráfica, formularios de captura y tablas de contenido.
-CSS3: Estilizado, diseño responsivo y maquetación de la interfaz de usuario.
-Visual Studio Code: Entorno de desarrollo principal y configuración del compilador (tsconfig.json).
-
-
+* 🔷 **TypeScript:** Lógica de negocio, tipado estático y manejo de interfaces de datos.
+* 🌐 **HTML5:** Estructuración semántica de la interfaz, formularios y tablas.
+* 🎨 **CSS3:** Estilizado, diseño responsivo y maquetación de la interfaz.
+* 💻 **Visual Studio Code:** Entorno de desarrollo y configuración del compilador.
 
 🔗 **Repositorio del proyecto:**
-
 [👉 Ver proyecto en GitHub](https://github.com/yamileH06/presentacion_personal1)
 
 ---
@@ -147,4 +147,3 @@ Visual Studio Code: Entorno de desarrollo principal y configuración del compila
 💻 **Diana Yamile Hualpa Chaguezac**
 🎓 Ingeniería de Sistemas
 🚀 *Aprendiendo, desarrollando y construyendo soluciones.*
-
