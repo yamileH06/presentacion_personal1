@@ -15,7 +15,6 @@ Me interesa especialmente el **desarrollo web**, las **bases de datos** y la **a
  <img width="899" height="1599" alt="WhatsApp Image 2026-09-22 at 2 29 31 PM" src="https://github.com/user-attachments/assets/c93b2621-6de7-44b0-9a87-9cfb837183ad" />
 
 
-![Foto de perfil](tu_foto.jpg)
 
 ---
 
@@ -105,10 +104,11 @@ Gestión de Platos y Combos: Módulo para administrar el menú interactivo del r
 📌 **Descripción:**
 Aplicación web interactiva diseñada para la gestión académica y el seguimiento de calificaciones de estudiantes. Permite administrar registros estudiantiles mediante una interfaz dinámica que facilita la captura de datos a través de formularios con validaciones personalizadas, la visualización de información en tablas interactivas y la ejecución de operaciones de mantenimiento de datos en tiempo real.
 
+<img width="1550" height="743" alt="Captura de pantalla 2026-09-22 134330" src="https://github.com/user-attachments/assets/af93f352-1ef7-4fcd-bd20-074b6e8fff5e" />
 
 🛠️ **Tecnologías utilizadas:**
 
-🔷TypeScript: Lógica de negocio, tipado estático, manejo de interfaces de datos y manipulación dinámica del DOM.
+🔷TypeScript: Lógica de negocio, tipado estático, manejo de interfaces de datos .
 HTML5: Estructuración semántica de la interfaz gráfica, formularios de captura y tablas de contenido.
 CSS3: Estilizado, diseño responsivo y maquetación de la interfaz de usuario.
 Visual Studio Code: Entorno de desarrollo principal y configuración del compilador (tsconfig.json).
