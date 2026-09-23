@@ -31,7 +31,7 @@ Me interesa especialmente el **desarrollo web**, las **bases de datos** y la **a
 * 🌐 Desarrollo de interfaces web interactivas.
 * 📝 Creación y validación de formularios dinámicos.
 * 💻 Desarrollo con **TypeScript, JavaScript y HTML/CSS**.
-* 🗄️ Diseño y gestión de bases de datos relacionales.
+* 🗄️ Diseño y gestión de bases de datos 
 * 🐬 Manejo de **MySQL y HeidiSQL**.
 * 🔌 Simulación de circuitos digitales y microcontroladores.
 * 🌐 Diseño y configuración de redes.
