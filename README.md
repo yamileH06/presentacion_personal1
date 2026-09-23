@@ -11,8 +11,11 @@
 Me interesa especialmente el **desarrollo web**, las **bases de datos** y la **arquitectura de software**. 🚀
 
 <p align="center">
-  <img width="1086" height="1448" alt="WhatsApp Image 2026-09-23 at 7 44 43 AM" src="https://github.com/user-attachments/assets/a18f6921-9560-42ea-9cf4-f5757772e191" />
-
+  <img
+    src="https://github.com/user-attachments/assets/a18f6921-9560-42ea-9cf4-f5757772e191"
+    width="700"
+    alt="WhatsApp Image 2026-09-23 at 7 44 43 AM"
+  />
 </p>
 
 ---
@@ -53,7 +56,7 @@ Me interesa especialmente el **desarrollo web**, las **bases de datos** y la **a
 | 🟨 JavaScript         | Programación web           |
 | 🔷 TypeScript         | Desarrollo de aplicaciones |
 | 🐍 Python             | En aprendizaje             |
-| 🐙 GitHub             | Repositorios y proyectos   |
+| 🐙 GitHub              | Repositorios y proyectos   |
 | 💻 Visual Studio Code | Entorno de desarrollo      |
 
 ---
@@ -67,7 +70,11 @@ Me interesa especialmente el **desarrollo web**, las **bases de datos** y la **a
 Sistema orientado al diseño de una **base de datos relacional** para administrar la información de vehículos, clientes, espacios de parqueadero y tarifas.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/04575d4d-3978-432a-b750-58a581f1dcc3" width="650" alt="Sistema de Gestión de Parqueadero">
+  <img
+    src="https://github.com/user-attachments/assets/04575d4d-3978-432a-b750-58a581f1dcc3"
+    width="650"
+    alt="Sistema de Gestión de Parqueadero"
+  />
 </p>
 
 🛠️ **Tecnologías utilizadas:**
@@ -85,7 +92,11 @@ Sistema orientado al diseño de una **base de datos relacional** para administra
 Sistema para la **gestión de platos y combos** de un restaurante. Permite registrar y visualizar platos con detalles de tamaño, tiempo de preparación y precio, asociar combos de acompañamientos y controlar el estado de disponibilidad **(Disponible / Agotado)** mediante acciones de edición y eliminación.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/af93f352-1ef7-4fcd-bd20-074b6e8fff5e" width="750" alt="Gestión de restaurante">
+  <img
+    src="https://github.com/user-attachments/assets/af93f352-1ef7-4fcd-bd20-074b6e8fff5e"
+    width="750"
+    alt="Gestión de restaurante"
+  />
 </p>
 
 🛠️ **Tecnologías utilizadas:**
@@ -106,7 +117,11 @@ Aplicación web interactiva diseñada para la **gestión académica y el seguimi
 Permite administrar registros mediante una interfaz dinámica, facilitando la captura de datos a través de formularios con validaciones personalizadas, la visualización de información en tablas interactivas y la ejecución de operaciones de mantenimiento de datos en tiempo real.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ab7e7d3a-bc61-4ad2-8d0b-84050d18f1ad" width="700" alt="Sistema de registro y control de estudiantes">
+  <img
+    src="https://github.com/user-attachments/assets/ab7e7d3a-bc61-4ad2-8d0b-84050d18f1ad"
+    width="700"
+    alt="Sistema de registro y control de estudiantes"
+  />
 </p>
 
 🛠️ **Tecnologías utilizadas:**
@@ -145,6 +160,6 @@ Permite administrar registros mediante una interfaz dinámica, facilitando la ca
 
 ⭐ Explora mis proyectos y conoce un poco más sobre mi proceso de aprendizaje.
 
-💻 **Diana Yamile Hualpa Chaguezac**
-🎓 Ingeniería de Sistemas
+💻 **Diana Yamile Hualpa Chaguezac**  
+🎓 Ingeniería de Sistemas  
 🚀 *Aprendiendo, desarrollando y construyendo soluciones.*
