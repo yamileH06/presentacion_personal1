@@ -12,9 +12,7 @@ Me interesa especialmente el **desarrollo web**, las **bases de datos** y la **a
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/a18f6921-9560-42ea-9cf4-f5757772e191"
-    width="700"
-    alt="WhatsApp Image 2026-09-23 at 7 44 43 AM"
+ 
   />
 </p>
 
