@@ -1,73 +1,73 @@
-# 👩‍💻 Diana Yamile Hualpa Chaguezac
+👩‍💻 DIANA YAMILE HUALPA CHAGUEZAC
 
-### 🎓 Estudiante de Ingeniería de Sistemas | 💻 Desarrollo Web | 🗄️ Bases de Datos | 🌐 Redes
+ESTUDIANTE DE INGENIERÍA DE SISTEMAS
 
----
-
-## 🏠 Inicio
-
-¡Hola! 👋 Soy **Diana Yamile Hualpa Chaguezac**, estudiante de **Ingeniería de Sistemas** interesada en la tecnología, el desarrollo de software y la creación de soluciones digitales.
-
-Me interesa especialmente el **desarrollo web**, las **bases de datos** y la **arquitectura de software**. 🚀
+Desarrollo Web · Bases de Datos · Arquitectura de Software · Redes
 
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/a18f6921-9560-42ea-9cf4-f5757772e191"
-    width="700"
-    alt="WhatsApp Image 2026-09-23 at 7 44 43 AM"
+    width="500"
+    alt="Diana Yamile Hualpa Chaguezac"
   />
-</p>
+</p><p align="center">
+  <strong>💻 Estudiante de Ingeniería de Sistemas | 🚀 Tecnología e innovación | 🌐 Desarrollo de soluciones digitales</strong>
+</p>---
+
+👋 PERFIL PROFESIONAL
+
+Soy Diana Yamile Hualpa Chaguezac, estudiante de Ingeniería de Sistemas en Uniremington, interesada en la tecnología, el desarrollo de software y la creación de soluciones digitales.
+
+Me interesa especialmente el desarrollo web, las bases de datos, la arquitectura de software y las redes, áreas en las que continúo fortaleciendo mis conocimientos mediante proyectos académicos y prácticos.
+
+Mi objetivo es seguir desarrollando mis habilidades para crear aplicaciones y soluciones tecnológicas que integren software, datos y arquitectura de sistemas.
 
 ---
 
-## 🙋‍♀️ Sobre mí
+🎓 FORMACIÓN ACADÉMICA
 
-### 🎓 Formación académica
+🏫 Ingeniería de Sistemas
 
-* 🏫 **Ingeniería de Sistemas** – Uniremington *(En curso)*
-
-### 💡 Habilidades
-
-* 🌐 Desarrollo de interfaces web interactivas.
-* 📝 Creación y validación de formularios dinámicos.
-* 💻 Desarrollo con **TypeScript, JavaScript y HTML/CSS**.
-* 🗄️ Diseño y gestión de bases de datos relacionales.
-* 🐬 Manejo de **MySQL y HeidiSQL**.
-* 🔌 Simulación de circuitos digitales y microcontroladores.
-* 🌐 Diseño y configuración de redes.
-
-### 🎯 Intereses profesionales
-
-* 🖥️ Desarrollo **Frontend y Backend**.
-* 🏗️ Arquitectura y patrones de diseño de software.
-* 🧩 Patrón **MVC (Modelo-Vista-Controlador)**.
-* 🗃️ Administración de bases de datos.
-* 🌐 Redes y comunicación.
-* ☁️ Aprendizaje de nuevas tecnologías.
+Uniremington
+En curso
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+💡 HABILIDADES
 
-| Tecnología            | Nivel / Uso                |
-| --------------------- | -------------------------- |
-| 🌐 HTML               | Desarrollo web             |
-| 🎨 CSS                | Diseño de interfaces       |
-| 🟨 JavaScript         | Programación web           |
-| 🔷 TypeScript         | Desarrollo de aplicaciones |
-| 🐍 Python             | En aprendizaje             |
-| 🐙 GitHub              | Repositorios y proyectos   |
-| 💻 Visual Studio Code | Entorno de desarrollo      |
+Área| Conocimientos
+🌐 Desarrollo Web| HTML5, CSS3, JavaScript, TypeScript
+🗄️ Bases de Datos| SQL, MySQL, HeidiSQL
+🏗️ Software| Arquitectura de software, patrones de diseño, MVC
+🐍 Programación| Python, JavaScript, TypeScript
+🌐 Redes| Diseño y configuración de redes
+🔌 Electrónica| Simulación de circuitos y microcontroladores
+🐙 Control de versiones| Git y GitHub
 
 ---
 
-# 🚀 Proyectos
+🛠️ TECNOLOGÍAS Y HERRAMIENTAS
 
-## 🅿️ 1. Sistema de Gestión de Parqueadero
+<p align="center">Tecnología| Uso
+🌐 HTML5| Desarrollo y estructura web
+🎨 CSS3| Diseño y maquetación de interfaces
+🟨 JavaScript| Programación web
+🔷 TypeScript| Desarrollo de aplicaciones
+🐍 Python| En aprendizaje
+🗄️ MySQL| Gestión de bases de datos
+🐬 HeidiSQL| Administración de bases de datos
+🐙 GitHub| Repositorios y proyectos
+💻 Visual Studio Code| Entorno de desarrollo
 
-📌 **Descripción:**
+</p>---
 
-Sistema orientado al diseño de una **base de datos relacional** para administrar la información de vehículos, clientes, espacios de parqueadero y tarifas.
+🚀 PROYECTOS DESTACADOS
+
+🅿️ 01 · SISTEMA DE GESTIÓN DE PARQUEADERO
+
+📌 Descripción
+
+Sistema orientado al diseño de una base de datos relacional para administrar la información de vehículos, clientes, espacios de parqueadero y tarifas.
 
 <p align="center">
   <img
@@ -75,44 +75,37 @@ Sistema orientado al diseño de una **base de datos relacional** para administra
     width="650"
     alt="Sistema de Gestión de Parqueadero"
   />
-</p>
+</p>🛠️ Tecnologías
 
-🛠️ **Tecnologías utilizadas:**
-
-* 🗄️ SQL
-* 🐬 MySQL
-* 🖥️ HeidiSQL
+"SQL" · "MySQL" · "HeidiSQL"
 
 ---
 
-## 🍔 2. Gestión de un Restaurante de Comidas Rápidas
+🍔 02 · GESTIÓN DE RESTAURANTE DE COMIDAS RÁPIDAS
 
-📌 **Descripción:**
+📌 Descripción
 
-Sistema para la **gestión de platos y combos** de un restaurante. Permite registrar y visualizar platos con detalles de tamaño, tiempo de preparación y precio, asociar combos de acompañamientos y controlar el estado de disponibilidad **(Disponible / Agotado)** mediante acciones de edición y eliminación.
+Sistema para la gestión de platos y combos de un restaurante.
+
+Permite registrar y visualizar platos con detalles de tamaño, tiempo de preparación y precio, asociar combos de acompañamientos y controlar el estado de disponibilidad (Disponible / Agotado) mediante acciones de edición y eliminación.
 
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/af93f352-1ef7-4fcd-bd20-074b6e8fff5e"
-    width="750"
+    width="700"
     alt="Gestión de restaurante"
   />
-</p>
+</p>🛠️ Tecnologías
 
-🛠️ **Tecnologías utilizadas:**
-
-* 🔷 TypeScript
-* 🌐 HTML5
-* 🎨 CSS3
-* 💻 Visual Studio Code
+"TypeScript" · "HTML5" · "CSS3" · "Visual Studio Code"
 
 ---
 
-## 🎓 3. Sistema de Registro y Control de Estudiantes
+🎓 03 · SISTEMA DE REGISTRO Y CONTROL DE ESTUDIANTES
 
-📌 **Descripción:**
+📌 Descripción
 
-Aplicación web interactiva diseñada para la **gestión académica y el seguimiento de calificaciones de estudiantes**.
+Aplicación web interactiva diseñada para la gestión académica y el seguimiento de calificaciones de estudiantes.
 
 Permite administrar registros mediante una interfaz dinámica, facilitando la captura de datos a través de formularios con validaciones personalizadas, la visualización de información en tablas interactivas y la ejecución de operaciones de mantenimiento de datos en tiempo real.
 
@@ -122,44 +115,53 @@ Permite administrar registros mediante una interfaz dinámica, facilitando la ca
     width="700"
     alt="Sistema de registro y control de estudiantes"
   />
+</p>🛠️ Tecnologías
+
+"TypeScript" · "HTML5" · "CSS3" · "Visual Studio Code"
+
+🔗 Repositorio
+
+👉 "Ver proyecto en GitHub" (https://github.com/yamileH06/presentacion_personal1)
+
+---
+
+📚 ACTUALMENTE APRENDIENDO
+
+Estoy fortaleciendo continuamente mis conocimientos en:
+
+- 🔷 TypeScript y JavaScript
+- 🗄️ Bases de datos
+- 🏗️ Arquitectura de software
+- 🧩 Patrones de diseño
+- 🌐 Redes
+- 🐍 Python
+- 🐙 Git y GitHub
+
+---
+
+🎯 OBJETIVO PROFESIONAL
+
+Mi objetivo es continuar desarrollando mis habilidades como Ingeniera de Sistemas, participando en proyectos tecnológicos y creando aplicaciones y soluciones que integren:
+
+💻 Desarrollo de software · 🗄️ Datos · 🏗️ Arquitectura · 🌐 Tecnología
+
+Busco seguir aprendiendo, adquirir experiencia práctica y convertir mis conocimientos en soluciones útiles e innovadoras.
+
+---
+
+🤝 CONTACTO Y PORTAFOLIO
+
+<p align="center">👩‍💻 DIANA YAMILE HUALPA CHAGUEZAC
+
+🎓 Ingeniería de Sistemas
+💻 Desarrollo Web
+🗄️ Bases de Datos
+🌐 Redes y Tecnología
+
+<br>🚀 Aprendiendo · Desarrollando · Construyendo
+
+</p>---
+
+<p align="center">
+  ⭐ <em>Gracias por visitar mi perfil y conocer mi proceso de aprendizaje.</em>
 </p>
-
-🛠️ **Tecnologías utilizadas:**
-
-* 🔷 **TypeScript:** Lógica de negocio, tipado estático y manejo de interfaces de datos.
-* 🌐 **HTML5:** Estructuración semántica de la interfaz, formularios y tablas.
-* 🎨 **CSS3:** Estilizado, diseño responsivo y maquetación de la interfaz.
-* 💻 **Visual Studio Code:** Entorno de desarrollo y configuración del compilador.
-
-🔗 **Repositorio del proyecto:**
-[👉 Ver proyecto en GitHub](https://github.com/yamileH06/presentacion_personal1)
-
----
-
-## 📚 Actualmente aprendiendo
-
-🌱 Actualmente estoy fortaleciendo mis conocimientos en:
-
-* 🔷 TypeScript y JavaScript.
-* 🗄️ Bases de datos.
-* 🏗️ Arquitectura de software.
-* 🧩 Patrones de diseño.
-* 🌐 Redes.
-* 🐍 Python.
-* 🐙 Git y GitHub.
-
----
-
-## 📊 Objetivo profesional
-
-🎯 Mi objetivo es continuar desarrollando mis habilidades como **Ingeniera de Sistemas**, creando aplicaciones y soluciones tecnológicas que combinen **desarrollo de software, bases de datos y arquitectura de sistemas**.
-
----
-
-### 🤝 ¡Gracias por visitar mi perfil!
-
-⭐ Explora mis proyectos y conoce un poco más sobre mi proceso de aprendizaje.
-
-💻 **Diana Yamile Hualpa Chaguezac**  
-🎓 Ingeniería de Sistemas  
-🚀 *Aprendiendo, desarrollando y construyendo soluciones.*
